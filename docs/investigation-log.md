@@ -194,7 +194,7 @@ level-up (a timing artefact). Three larger cases (chr_0702, chr_0902, chr_1777) 
 
 ---
 
-## Worst case: timeline of chr_1786 (draft)
+## Worst case: timeline of chr_1786 
 
 chr_1786 took part in every exploit and was the one who duplicated the sword.
 
