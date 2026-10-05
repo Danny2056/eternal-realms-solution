@@ -92,3 +92,12 @@ data/                         Generated (git-ignored): raw Parquet and the DuckD
 ## Stack
 
 Python, Parquet, DuckDB and plain SQL. Reasons and alternatives: [docs/adr/0001-stack-python-duckdb-parquet.md](docs/adr/0001-stack-python-duckdb-parquet.md).
+
+## Dataset and Power BI report
+
+The ingested warehouse (`eternal_realms.duckdb`, 2.8 GB) exceeds GitHub's file size limit, so it is published as a release asset on [Release v1.0](https://github.com/Danny2056/eternal-realms-solution/releases/tag/v1.0):
+
+- **eternal_realms_dataset.zip** (517 MB): every schema exported to Parquet with zstd compression. Unzip it into a folder and run `IMPORT DATABASE 'folder';` in DuckDB to restore the full warehouse.
+- **Eternal Realms.pbix** (103 MB): Power BI version of the required reports.
+
+The warehouse can also be rebuilt from the source snapshot with the pipeline described in [SETUP.md](SETUP.md).
