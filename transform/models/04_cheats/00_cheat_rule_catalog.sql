@@ -1,0 +1,30 @@
+-- The rule book of the cheat detector: one row per rule, with the rulebook section it enforces and a
+-- plain-English description. Every violation in cheats.cheat_violations points to one of these rules.
+SELECT * FROM (VALUES
+ ('R01','Burst damage','combat','high','5.1',
+  'A character landed several hits at the same instant. Every hit comes from one ability, and only one ability can be used every 1.5 seconds.'),
+ ('R02','Item duplication','items','high','4.4',
+  'A character traded away an item it had already given to someone else. An item belongs to one character at a time.'),
+ ('R03','Equip stacking','items','medium','4.1',
+  'A character equipped an item into a slot that was already filled, less than a second after the previous equip, without the item being taken off first.'),
+ ('R04','Speed hack','movement','medium','3.1',
+  'A character walked between two zones faster than the fixed walking speed of 7 m/s allows.'),
+ ('R05','Gear above level','items','low','4.1',
+  'A character equipped an item whose level requirement is at least 2 levels above its own level.'),
+ ('R06','Hit above maximum damage','combat','high','5.2',
+  'A single hit did more damage than the damage formula allows for the attacker''s level, even with a critical hit.'),
+ ('R07','Ability reused during cooldown','combat','high','5.1',
+  'An ability was used again before its own cooldown or the 1.5 s global cooldown had ended.'),
+ ('R08','Amulet reused during cooldown','movement','high','3.2',
+  'The Amulet of the Planes was used again within its 60 minute cooldown.'),
+ ('R09','Soulbound item moved','items','high','4.3',
+  'An item that had already been equipped (soulbound) was traded or put up for auction.'),
+ ('R10','Illegal trade','economy','high','7.2',
+  'A trade between characters of different factions or in different zones.'),
+ ('R11','Transport misuse','movement','medium','3.3',
+  'A transport was used by the wrong faction or before it was released.'),
+ ('R12','Combat in a capital hub','combat','high','1.1',
+  'A fight started in a capital hub, where no combat of any kind is allowed.'),
+ ('R13','Wrong XP award','progression','high','2.2',
+  'A character received a different amount of XP than the creature grants.')
+) AS t(rule_id, rule_name, category, severity, rulebook_section, plain_english)

@@ -1,0 +1,944 @@
+zone_name,sub_zone_name,hour_utc,events,avg_active_characters
+Ashen Vale,Ashen Ridge,0,2363,13.5
+Ashen Vale,Ashen Ridge,1,1536,8.8
+Ashen Vale,Ashen Ridge,2,1003,5.7
+Ashen Vale,Ashen Ridge,3,687,4.8
+Ashen Vale,Ashen Ridge,4,465,3.3
+Ashen Vale,Ashen Ridge,5,207,2.2
+Ashen Vale,Ashen Ridge,6,173,2.0
+Ashen Vale,Ashen Ridge,7,102,1.6
+Ashen Vale,Ashen Ridge,8,56,1.4
+Ashen Vale,Ashen Ridge,9,6,1.0
+Ashen Vale,Ashen Ridge,10,4,1.0
+Ashen Vale,Ashen Ridge,11,12,1.0
+Ashen Vale,Ashen Ridge,12,8,1.0
+Ashen Vale,Ashen Ridge,13,45,1.7
+Ashen Vale,Ashen Ridge,14,97,1.2
+Ashen Vale,Ashen Ridge,15,229,2.2
+Ashen Vale,Ashen Ridge,16,396,2.9
+Ashen Vale,Ashen Ridge,17,1146,6.4
+Ashen Vale,Ashen Ridge,18,1974,11.1
+Ashen Vale,Ashen Ridge,19,2616,15.3
+Ashen Vale,Ashen Ridge,20,3282,19.0
+Ashen Vale,Ashen Ridge,21,3737,23.3
+Ashen Vale,Ashen Ridge,22,3806,21.0
+Ashen Vale,Ashen Ridge,23,3077,17.1
+Ashen Vale,Charwood Thicket,0,2164,12.3
+Ashen Vale,Charwood Thicket,1,1374,8.7
+Ashen Vale,Charwood Thicket,2,871,5.7
+Ashen Vale,Charwood Thicket,3,754,4.5
+Ashen Vale,Charwood Thicket,4,377,3.0
+Ashen Vale,Charwood Thicket,5,254,2.3
+Ashen Vale,Charwood Thicket,6,120,1.9
+Ashen Vale,Charwood Thicket,7,97,1.8
+Ashen Vale,Charwood Thicket,8,32,1.5
+Ashen Vale,Charwood Thicket,9,20,1.0
+Ashen Vale,Charwood Thicket,10,4,1.0
+Ashen Vale,Charwood Thicket,11,5,1.0
+Ashen Vale,Charwood Thicket,12,10,1.0
+Ashen Vale,Charwood Thicket,13,25,1.8
+Ashen Vale,Charwood Thicket,14,97,1.3
+Ashen Vale,Charwood Thicket,15,218,1.6
+Ashen Vale,Charwood Thicket,16,406,2.8
+Ashen Vale,Charwood Thicket,17,1108,6.0
+Ashen Vale,Charwood Thicket,18,1677,9.3
+Ashen Vale,Charwood Thicket,19,2522,14.8
+Ashen Vale,Charwood Thicket,20,3117,19.3
+Ashen Vale,Charwood Thicket,21,3585,21.2
+Ashen Vale,Charwood Thicket,22,3723,21.3
+Ashen Vale,Charwood Thicket,23,2863,16.3
+Ashen Vale,Cinderstone Circle,0,2587,31.7
+Ashen Vale,Cinderstone Circle,1,2045,23.5
+Ashen Vale,Cinderstone Circle,2,1489,17.3
+Ashen Vale,Cinderstone Circle,3,1057,15.0
+Ashen Vale,Cinderstone Circle,4,618,10.6
+Ashen Vale,Cinderstone Circle,5,223,7.3
+Ashen Vale,Cinderstone Circle,6,190,6.5
+Ashen Vale,Cinderstone Circle,7,93,4.1
+Ashen Vale,Cinderstone Circle,8,39,2.6
+Ashen Vale,Cinderstone Circle,9,30,2.5
+Ashen Vale,Cinderstone Circle,10,19,1.8
+Ashen Vale,Cinderstone Circle,11,12,1.2
+Ashen Vale,Cinderstone Circle,12,16,1.3
+Ashen Vale,Cinderstone Circle,13,72,1.7
+Ashen Vale,Cinderstone Circle,14,107,2.1
+Ashen Vale,Cinderstone Circle,15,275,3.8
+Ashen Vale,Cinderstone Circle,16,445,7.3
+Ashen Vale,Cinderstone Circle,17,1171,15.2
+Ashen Vale,Cinderstone Circle,18,2392,31.6
+Ashen Vale,Cinderstone Circle,19,3652,44.8
+Ashen Vale,Cinderstone Circle,20,4301,57.4
+Ashen Vale,Cinderstone Circle,21,5041,60.0
+Ashen Vale,Cinderstone Circle,22,4659,52.9
+Ashen Vale,Cinderstone Circle,23,3861,39.3
+Ashen Vale,Crypt Gate,0,2284,13.1
+Ashen Vale,Crypt Gate,1,1555,9.4
+Ashen Vale,Crypt Gate,2,1087,6.8
+Ashen Vale,Crypt Gate,3,786,4.3
+Ashen Vale,Crypt Gate,4,298,3.3
+Ashen Vale,Crypt Gate,5,185,2.1
+Ashen Vale,Crypt Gate,6,156,1.8
+Ashen Vale,Crypt Gate,7,97,2.5
+Ashen Vale,Crypt Gate,8,38,1.1
+Ashen Vale,Crypt Gate,9,2,1.0
+Ashen Vale,Crypt Gate,10,8,1.0
+Ashen Vale,Crypt Gate,11,7,1.0
+Ashen Vale,Crypt Gate,12,26,2.3
+Ashen Vale,Crypt Gate,13,70,1.8
+Ashen Vale,Crypt Gate,14,134,1.6
+Ashen Vale,Crypt Gate,15,231,1.6
+Ashen Vale,Crypt Gate,16,421,3.3
+Ashen Vale,Crypt Gate,17,1195,6.3
+Ashen Vale,Crypt Gate,18,1680,10.7
+Ashen Vale,Crypt Gate,19,2399,14.8
+Ashen Vale,Crypt Gate,20,3233,19.2
+Ashen Vale,Crypt Gate,21,3987,22.1
+Ashen Vale,Crypt Gate,22,3444,20.0
+Ashen Vale,Crypt Gate,23,3175,17.7
+Ashen Vale,Emberfall Hollow,0,2435,14.4
+Ashen Vale,Emberfall Hollow,1,1683,9.3
+Ashen Vale,Emberfall Hollow,2,1005,6.5
+Ashen Vale,Emberfall Hollow,3,676,4.7
+Ashen Vale,Emberfall Hollow,4,408,2.9
+Ashen Vale,Emberfall Hollow,5,170,2.3
+Ashen Vale,Emberfall Hollow,6,161,1.9
+Ashen Vale,Emberfall Hollow,7,82,1.7
+Ashen Vale,Emberfall Hollow,8,21,1.4
+Ashen Vale,Emberfall Hollow,9,20,1.6
+Ashen Vale,Emberfall Hollow,10,6,1.5
+Ashen Vale,Emberfall Hollow,11,4,1.0
+Ashen Vale,Emberfall Hollow,12,13,1.5
+Ashen Vale,Emberfall Hollow,13,34,2.3
+Ashen Vale,Emberfall Hollow,14,161,1.7
+Ashen Vale,Emberfall Hollow,15,216,1.8
+Ashen Vale,Emberfall Hollow,16,464,3.0
+Ashen Vale,Emberfall Hollow,17,993,5.6
+Ashen Vale,Emberfall Hollow,18,1707,10.5
+Ashen Vale,Emberfall Hollow,19,2501,14.9
+Ashen Vale,Emberfall Hollow,20,3239,19.6
+Ashen Vale,Emberfall Hollow,21,3491,21.3
+Ashen Vale,Emberfall Hollow,22,3706,19.7
+Ashen Vale,Emberfall Hollow,23,3053,16.5
+Ashen Vale,Greyveil Ruins,0,2280,13.7
+Ashen Vale,Greyveil Ruins,1,1445,8.8
+Ashen Vale,Greyveil Ruins,2,1036,6.1
+Ashen Vale,Greyveil Ruins,3,775,4.8
+Ashen Vale,Greyveil Ruins,4,372,3.2
+Ashen Vale,Greyveil Ruins,5,241,2.5
+Ashen Vale,Greyveil Ruins,6,180,2.1
+Ashen Vale,Greyveil Ruins,7,38,1.4
+Ashen Vale,Greyveil Ruins,8,49,1.1
+Ashen Vale,Greyveil Ruins,9,10,1.3
+Ashen Vale,Greyveil Ruins,10,8,1.0
+Ashen Vale,Greyveil Ruins,12,16,1.0
+Ashen Vale,Greyveil Ruins,13,31,1.2
+Ashen Vale,Greyveil Ruins,14,107,1.4
+Ashen Vale,Greyveil Ruins,15,158,2.2
+Ashen Vale,Greyveil Ruins,16,599,3.2
+Ashen Vale,Greyveil Ruins,17,1037,5.9
+Ashen Vale,Greyveil Ruins,18,1807,10.9
+Ashen Vale,Greyveil Ruins,19,2362,14.4
+Ashen Vale,Greyveil Ruins,20,3297,18.2
+Ashen Vale,Greyveil Ruins,21,3793,21.8
+Ashen Vale,Greyveil Ruins,22,3739,21.8
+Ashen Vale,Greyveil Ruins,23,3041,16.8
+Ashen Vale,Smoldering Ford,0,2645,14.3
+Ashen Vale,Smoldering Ford,1,1609,9.6
+Ashen Vale,Smoldering Ford,2,988,6.5
+Ashen Vale,Smoldering Ford,3,706,4.5
+Ashen Vale,Smoldering Ford,4,409,2.9
+Ashen Vale,Smoldering Ford,5,182,2.4
+Ashen Vale,Smoldering Ford,6,102,1.8
+Ashen Vale,Smoldering Ford,7,128,1.5
+Ashen Vale,Smoldering Ford,8,33,1.3
+Ashen Vale,Smoldering Ford,10,2,1.0
+Ashen Vale,Smoldering Ford,11,2,1.0
+Ashen Vale,Smoldering Ford,12,23,2.0
+Ashen Vale,Smoldering Ford,13,32,1.1
+Ashen Vale,Smoldering Ford,14,99,1.3
+Ashen Vale,Smoldering Ford,15,169,1.6
+Ashen Vale,Smoldering Ford,16,425,3.2
+Ashen Vale,Smoldering Ford,17,994,5.9
+Ashen Vale,Smoldering Ford,18,1616,10.0
+Ashen Vale,Smoldering Ford,19,2530,15.6
+Ashen Vale,Smoldering Ford,20,3479,20.1
+Ashen Vale,Smoldering Ford,21,3518,21.3
+Ashen Vale,Smoldering Ford,22,3571,19.7
+Ashen Vale,Smoldering Ford,23,3079,15.7
+Goldmeadow,Amberfield Farms,0,493,5.8
+Goldmeadow,Amberfield Farms,1,308,3.3
+Goldmeadow,Amberfield Farms,2,187,3.7
+Goldmeadow,Amberfield Farms,3,94,2.7
+Goldmeadow,Amberfield Farms,4,59,2.0
+Goldmeadow,Amberfield Farms,5,54,2.1
+Goldmeadow,Amberfield Farms,6,33,1.4
+Goldmeadow,Amberfield Farms,7,12,1.3
+Goldmeadow,Amberfield Farms,8,3,1.0
+Goldmeadow,Amberfield Farms,9,2,1.0
+Goldmeadow,Amberfield Farms,10,1,1.0
+Goldmeadow,Amberfield Farms,12,8,1.0
+Goldmeadow,Amberfield Farms,13,10,1.0
+Goldmeadow,Amberfield Farms,14,48,1.0
+Goldmeadow,Amberfield Farms,15,63,1.6
+Goldmeadow,Amberfield Farms,16,184,1.7
+Goldmeadow,Amberfield Farms,17,354,2.6
+Goldmeadow,Amberfield Farms,18,369,4.1
+Goldmeadow,Amberfield Farms,19,558,6.8
+Goldmeadow,Amberfield Farms,20,786,8.2
+Goldmeadow,Amberfield Farms,21,838,8.5
+Goldmeadow,Amberfield Farms,22,663,7.0
+Goldmeadow,Amberfield Farms,23,695,5.9
+Goldmeadow,Millbrook,0,620,5.0
+Goldmeadow,Millbrook,1,433,4.2
+Goldmeadow,Millbrook,2,151,3.3
+Goldmeadow,Millbrook,3,105,2.6
+Goldmeadow,Millbrook,4,60,1.8
+Goldmeadow,Millbrook,5,38,1.7
+Goldmeadow,Millbrook,6,19,2.0
+Goldmeadow,Millbrook,7,8,1.0
+Goldmeadow,Millbrook,8,2,1.0
+Goldmeadow,Millbrook,9,4,1.3
+Goldmeadow,Millbrook,10,1,1.0
+Goldmeadow,Millbrook,11,11,1.5
+Goldmeadow,Millbrook,12,5,1.0
+Goldmeadow,Millbrook,13,4,1.0
+Goldmeadow,Millbrook,14,62,1.7
+Goldmeadow,Millbrook,15,108,1.6
+Goldmeadow,Millbrook,16,137,1.5
+Goldmeadow,Millbrook,17,326,2.9
+Goldmeadow,Millbrook,18,513,5.1
+Goldmeadow,Millbrook,19,703,6.9
+Goldmeadow,Millbrook,20,957,9.4
+Goldmeadow,Millbrook,21,815,8.3
+Goldmeadow,Millbrook,22,789,7.4
+Goldmeadow,Millbrook,23,774,6.4
+Goldmeadow,Old Watchtower,0,487,4.4
+Goldmeadow,Old Watchtower,1,350,3.7
+Goldmeadow,Old Watchtower,2,204,4.1
+Goldmeadow,Old Watchtower,3,144,2.5
+Goldmeadow,Old Watchtower,4,69,1.9
+Goldmeadow,Old Watchtower,5,34,1.6
+Goldmeadow,Old Watchtower,6,15,1.4
+Goldmeadow,Old Watchtower,7,11,1.2
+Goldmeadow,Old Watchtower,8,2,1.0
+Goldmeadow,Old Watchtower,9,3,1.0
+Goldmeadow,Old Watchtower,10,2,1.0
+Goldmeadow,Old Watchtower,12,2,2.0
+Goldmeadow,Old Watchtower,13,4,1.0
+Goldmeadow,Old Watchtower,14,17,1.0
+Goldmeadow,Old Watchtower,15,59,1.4
+Goldmeadow,Old Watchtower,16,184,2.1
+Goldmeadow,Old Watchtower,17,299,2.8
+Goldmeadow,Old Watchtower,18,412,4.1
+Goldmeadow,Old Watchtower,19,547,6.3
+Goldmeadow,Old Watchtower,20,830,7.9
+Goldmeadow,Old Watchtower,21,910,8.1
+Goldmeadow,Old Watchtower,22,715,6.9
+Goldmeadow,Old Watchtower,23,610,6.0
+Goldmeadow,Stonecross Bridge,0,497,5.1
+Goldmeadow,Stonecross Bridge,1,370,4.1
+Goldmeadow,Stonecross Bridge,2,189,2.8
+Goldmeadow,Stonecross Bridge,3,153,3.1
+Goldmeadow,Stonecross Bridge,4,57,2.1
+Goldmeadow,Stonecross Bridge,5,29,1.3
+Goldmeadow,Stonecross Bridge,6,26,1.4
+Goldmeadow,Stonecross Bridge,7,5,1.0
+Goldmeadow,Stonecross Bridge,8,6,1.5
+Goldmeadow,Stonecross Bridge,9,5,1.3
+Goldmeadow,Stonecross Bridge,12,13,1.0
+Goldmeadow,Stonecross Bridge,13,11,1.0
+Goldmeadow,Stonecross Bridge,14,46,1.1
+Goldmeadow,Stonecross Bridge,15,113,1.5
+Goldmeadow,Stonecross Bridge,16,199,2.2
+Goldmeadow,Stonecross Bridge,17,305,3.3
+Goldmeadow,Stonecross Bridge,18,600,4.9
+Goldmeadow,Stonecross Bridge,19,704,6.2
+Goldmeadow,Stonecross Bridge,20,831,7.9
+Goldmeadow,Stonecross Bridge,21,851,7.7
+Goldmeadow,Stonecross Bridge,22,894,7.3
+Goldmeadow,Stonecross Bridge,23,716,6.3
+Goldmeadow,Wolfpine Woods,0,449,4.7
+Goldmeadow,Wolfpine Woods,1,270,4.0
+Goldmeadow,Wolfpine Woods,2,227,3.1
+Goldmeadow,Wolfpine Woods,3,132,1.9
+Goldmeadow,Wolfpine Woods,4,52,1.9
+Goldmeadow,Wolfpine Woods,5,52,1.4
+Goldmeadow,Wolfpine Woods,6,40,1.4
+Goldmeadow,Wolfpine Woods,7,8,1.0
+Goldmeadow,Wolfpine Woods,8,2,1.0
+Goldmeadow,Wolfpine Woods,9,1,1.0
+Goldmeadow,Wolfpine Woods,10,1,1.0
+Goldmeadow,Wolfpine Woods,11,12,1.0
+Goldmeadow,Wolfpine Woods,12,15,1.0
+Goldmeadow,Wolfpine Woods,13,11,1.3
+Goldmeadow,Wolfpine Woods,14,39,1.1
+Goldmeadow,Wolfpine Woods,15,65,1.5
+Goldmeadow,Wolfpine Woods,16,119,1.6
+Goldmeadow,Wolfpine Woods,17,284,3.0
+Goldmeadow,Wolfpine Woods,18,479,4.4
+Goldmeadow,Wolfpine Woods,19,609,6.6
+Goldmeadow,Wolfpine Woods,20,962,8.3
+Goldmeadow,Wolfpine Woods,21,1025,7.9
+Goldmeadow,Wolfpine Woods,22,785,7.0
+Goldmeadow,Wolfpine Woods,23,709,6.6
+Netherreach,Hollow Crown,0,29864,134.3
+Netherreach,Hollow Crown,1,23194,103.2
+Netherreach,Hollow Crown,2,17028,75.7
+Netherreach,Hollow Crown,3,11605,50.6
+Netherreach,Hollow Crown,4,7417,33.0
+Netherreach,Hollow Crown,5,4951,21.4
+Netherreach,Hollow Crown,6,3281,14.5
+Netherreach,Hollow Crown,7,2267,8.9
+Netherreach,Hollow Crown,8,1285,5.3
+Netherreach,Hollow Crown,9,809,3.4
+Netherreach,Hollow Crown,10,559,2.5
+Netherreach,Hollow Crown,11,408,2.3
+Netherreach,Hollow Crown,12,261,1.5
+Netherreach,Hollow Crown,13,267,1.7
+Netherreach,Hollow Crown,14,376,2.1
+Netherreach,Hollow Crown,15,946,3.8
+Netherreach,Hollow Crown,16,1592,7.5
+Netherreach,Hollow Crown,17,3836,18.0
+Netherreach,Hollow Crown,18,8302,38.5
+Netherreach,Hollow Crown,19,15495,71.4
+Netherreach,Hollow Crown,20,25089,111.8
+Netherreach,Hollow Crown,21,33468,149.9
+Netherreach,Hollow Crown,22,37366,166.1
+Netherreach,Hollow Crown,23,35453,154.2
+Netherreach,Riftwatch Spire,0,28924,130.4
+Netherreach,Riftwatch Spire,1,22508,101.8
+Netherreach,Riftwatch Spire,2,16553,74.4
+Netherreach,Riftwatch Spire,3,11147,50.2
+Netherreach,Riftwatch Spire,4,7643,33.0
+Netherreach,Riftwatch Spire,5,4863,21.0
+Netherreach,Riftwatch Spire,6,3346,14.2
+Netherreach,Riftwatch Spire,7,1846,8.4
+Netherreach,Riftwatch Spire,8,1417,5.4
+Netherreach,Riftwatch Spire,9,936,3.9
+Netherreach,Riftwatch Spire,10,555,2.8
+Netherreach,Riftwatch Spire,11,459,2.1
+Netherreach,Riftwatch Spire,12,264,1.6
+Netherreach,Riftwatch Spire,13,307,1.8
+Netherreach,Riftwatch Spire,14,480,2.0
+Netherreach,Riftwatch Spire,15,785,3.4
+Netherreach,Riftwatch Spire,16,1972,8.5
+Netherreach,Riftwatch Spire,17,4088,17.5
+Netherreach,Riftwatch Spire,18,8886,40.6
+Netherreach,Riftwatch Spire,19,15443,71.3
+Netherreach,Riftwatch Spire,20,23888,111.1
+Netherreach,Riftwatch Spire,21,32595,150.2
+Netherreach,Riftwatch Spire,22,37130,163.2
+Netherreach,Riftwatch Spire,23,35045,154.0
+Netherreach,Shattered Causeway,0,29870,131.9
+Netherreach,Shattered Causeway,1,22501,100.1
+Netherreach,Shattered Causeway,2,16885,76.0
+Netherreach,Shattered Causeway,3,11596,51.0
+Netherreach,Shattered Causeway,4,7806,33.7
+Netherreach,Shattered Causeway,5,5214,21.7
+Netherreach,Shattered Causeway,6,3419,14.5
+Netherreach,Shattered Causeway,7,1988,9.6
+Netherreach,Shattered Causeway,8,1146,5.2
+Netherreach,Shattered Causeway,9,772,3.5
+Netherreach,Shattered Causeway,10,511,2.7
+Netherreach,Shattered Causeway,11,377,2.1
+Netherreach,Shattered Causeway,12,276,1.5
+Netherreach,Shattered Causeway,13,246,1.8
+Netherreach,Shattered Causeway,14,422,2.2
+Netherreach,Shattered Causeway,15,854,3.8
+Netherreach,Shattered Causeway,16,1788,8.2
+Netherreach,Shattered Causeway,17,3780,17.5
+Netherreach,Shattered Causeway,18,8381,38.6
+Netherreach,Shattered Causeway,19,15588,72.0
+Netherreach,Shattered Causeway,20,24611,112.3
+Netherreach,Shattered Causeway,21,32834,145.4
+Netherreach,Shattered Causeway,22,36537,165.8
+Netherreach,Shattered Causeway,23,35746,152.9
+Netherreach,Starless Marsh,0,28938,130.2
+Netherreach,Starless Marsh,1,22638,101.2
+Netherreach,Starless Marsh,2,16108,73.2
+Netherreach,Starless Marsh,3,11668,50.2
+Netherreach,Starless Marsh,4,7710,32.5
+Netherreach,Starless Marsh,5,4842,20.9
+Netherreach,Starless Marsh,6,2911,13.1
+Netherreach,Starless Marsh,7,2171,9.3
+Netherreach,Starless Marsh,8,1362,6.0
+Netherreach,Starless Marsh,9,842,4.0
+Netherreach,Starless Marsh,10,714,2.8
+Netherreach,Starless Marsh,11,449,2.2
+Netherreach,Starless Marsh,12,222,1.8
+Netherreach,Starless Marsh,13,268,1.6
+Netherreach,Starless Marsh,14,540,2.3
+Netherreach,Starless Marsh,15,854,4.4
+Netherreach,Starless Marsh,16,1812,7.8
+Netherreach,Starless Marsh,17,3918,16.8
+Netherreach,Starless Marsh,18,7557,36.8
+Netherreach,Starless Marsh,19,15531,71.7
+Netherreach,Starless Marsh,20,24688,110.7
+Netherreach,Starless Marsh,21,32341,150.2
+Netherreach,Starless Marsh,22,37426,167.6
+Netherreach,Starless Marsh,23,36404,157.0
+Netherreach,Voidforge Approach,0,29493,129.8
+Netherreach,Voidforge Approach,1,23387,104.9
+Netherreach,Voidforge Approach,2,16549,71.9
+Netherreach,Voidforge Approach,3,11182,50.8
+Netherreach,Voidforge Approach,4,8027,34.8
+Netherreach,Voidforge Approach,5,5313,22.2
+Netherreach,Voidforge Approach,6,3100,14.0
+Netherreach,Voidforge Approach,7,1917,8.8
+Netherreach,Voidforge Approach,8,1309,5.9
+Netherreach,Voidforge Approach,9,799,3.6
+Netherreach,Voidforge Approach,10,642,3.0
+Netherreach,Voidforge Approach,11,416,2.3
+Netherreach,Voidforge Approach,12,261,1.9
+Netherreach,Voidforge Approach,13,315,1.8
+Netherreach,Voidforge Approach,14,439,2.3
+Netherreach,Voidforge Approach,15,928,4.0
+Netherreach,Voidforge Approach,16,1617,7.9
+Netherreach,Voidforge Approach,17,3957,18.5
+Netherreach,Voidforge Approach,18,8366,38.2
+Netherreach,Voidforge Approach,19,16288,74.0
+Netherreach,Voidforge Approach,20,25673,114.1
+Netherreach,Voidforge Approach,21,33696,151.2
+Netherreach,Voidforge Approach,22,38016,166.0
+Netherreach,Voidforge Approach,23,34343,152.7
+Netherreach,Waygate Terrace,0,33495,141.0
+Netherreach,Waygate Terrace,1,25982,111.5
+Netherreach,Waygate Terrace,2,18526,80.6
+Netherreach,Waygate Terrace,3,13577,56.0
+Netherreach,Waygate Terrace,4,8955,37.2
+Netherreach,Waygate Terrace,5,5609,23.7
+Netherreach,Waygate Terrace,6,3896,16.0
+Netherreach,Waygate Terrace,7,2569,10.4
+Netherreach,Waygate Terrace,8,1589,6.3
+Netherreach,Waygate Terrace,9,959,3.7
+Netherreach,Waygate Terrace,10,648,3.0
+Netherreach,Waygate Terrace,11,480,2.4
+Netherreach,Waygate Terrace,12,358,1.7
+Netherreach,Waygate Terrace,13,281,1.8
+Netherreach,Waygate Terrace,14,623,2.7
+Netherreach,Waygate Terrace,15,1016,4.8
+Netherreach,Waygate Terrace,16,2521,10.6
+Netherreach,Waygate Terrace,17,4989,23.1
+Netherreach,Waygate Terrace,18,11085,51.9
+Netherreach,Waygate Terrace,19,21518,94.3
+Netherreach,Waygate Terrace,20,31231,141.1
+Netherreach,Waygate Terrace,21,41900,175.9
+Netherreach,Waygate Terrace,22,44504,188.8
+Netherreach,Waygate Terrace,23,39263,165.8
+Red Mesa,Dustfang Burrows,0,742,6.3
+Red Mesa,Dustfang Burrows,1,440,4.0
+Red Mesa,Dustfang Burrows,2,389,3.0
+Red Mesa,Dustfang Burrows,3,230,2.5
+Red Mesa,Dustfang Burrows,4,106,2.1
+Red Mesa,Dustfang Burrows,5,71,2.0
+Red Mesa,Dustfang Burrows,6,15,1.5
+Red Mesa,Dustfang Burrows,7,6,1.2
+Red Mesa,Dustfang Burrows,8,4,1.3
+Red Mesa,Dustfang Burrows,9,2,1.0
+Red Mesa,Dustfang Burrows,10,2,1.0
+Red Mesa,Dustfang Burrows,11,11,1.5
+Red Mesa,Dustfang Burrows,12,6,1.0
+Red Mesa,Dustfang Burrows,13,37,1.3
+Red Mesa,Dustfang Burrows,14,100,1.3
+Red Mesa,Dustfang Burrows,15,173,2.1
+Red Mesa,Dustfang Burrows,16,223,2.3
+Red Mesa,Dustfang Burrows,17,387,3.7
+Red Mesa,Dustfang Burrows,18,688,6.1
+Red Mesa,Dustfang Burrows,19,1041,9.2
+Red Mesa,Dustfang Burrows,20,1177,10.4
+Red Mesa,Dustfang Burrows,21,1434,12.3
+Red Mesa,Dustfang Burrows,22,1537,11.8
+Red Mesa,Dustfang Burrows,23,1215,8.5
+Red Mesa,Hollowhorn Flats,0,768,5.9
+Red Mesa,Hollowhorn Flats,1,564,4.0
+Red Mesa,Hollowhorn Flats,2,355,3.0
+Red Mesa,Hollowhorn Flats,3,248,3.6
+Red Mesa,Hollowhorn Flats,4,103,2.2
+Red Mesa,Hollowhorn Flats,5,18,1.5
+Red Mesa,Hollowhorn Flats,6,10,1.4
+Red Mesa,Hollowhorn Flats,7,8,1.3
+Red Mesa,Hollowhorn Flats,8,10,1.8
+Red Mesa,Hollowhorn Flats,9,5,1.3
+Red Mesa,Hollowhorn Flats,10,2,1.0
+Red Mesa,Hollowhorn Flats,11,10,1.0
+Red Mesa,Hollowhorn Flats,12,26,1.3
+Red Mesa,Hollowhorn Flats,13,23,1.0
+Red Mesa,Hollowhorn Flats,14,79,1.2
+Red Mesa,Hollowhorn Flats,15,160,1.6
+Red Mesa,Hollowhorn Flats,16,210,2.5
+Red Mesa,Hollowhorn Flats,17,357,3.1
+Red Mesa,Hollowhorn Flats,18,527,5.6
+Red Mesa,Hollowhorn Flats,19,840,9.2
+Red Mesa,Hollowhorn Flats,20,1331,10.9
+Red Mesa,Hollowhorn Flats,21,1598,11.3
+Red Mesa,Hollowhorn Flats,22,1442,10.4
+Red Mesa,Hollowhorn Flats,23,1093,8.3
+Red Mesa,Rattlebone Ridge,0,660,5.6
+Red Mesa,Rattlebone Ridge,1,324,4.0
+Red Mesa,Rattlebone Ridge,2,368,3.8
+Red Mesa,Rattlebone Ridge,3,253,3.0
+Red Mesa,Rattlebone Ridge,4,67,2.4
+Red Mesa,Rattlebone Ridge,5,24,1.9
+Red Mesa,Rattlebone Ridge,6,17,1.1
+Red Mesa,Rattlebone Ridge,7,9,1.3
+Red Mesa,Rattlebone Ridge,8,4,1.0
+Red Mesa,Rattlebone Ridge,10,1,1.0
+Red Mesa,Rattlebone Ridge,11,7,1.0
+Red Mesa,Rattlebone Ridge,12,10,1.5
+Red Mesa,Rattlebone Ridge,13,26,1.2
+Red Mesa,Rattlebone Ridge,14,91,1.5
+Red Mesa,Rattlebone Ridge,15,132,1.7
+Red Mesa,Rattlebone Ridge,16,189,1.8
+Red Mesa,Rattlebone Ridge,17,461,3.6
+Red Mesa,Rattlebone Ridge,18,628,5.9
+Red Mesa,Rattlebone Ridge,19,928,8.1
+Red Mesa,Rattlebone Ridge,20,1146,10.1
+Red Mesa,Rattlebone Ridge,21,1504,10.7
+Red Mesa,Rattlebone Ridge,22,1477,10.4
+Red Mesa,Rattlebone Ridge,23,1088,7.3
+Red Mesa,Sunscorch Canyon,0,582,5.7
+Red Mesa,Sunscorch Canyon,1,553,4.1
+Red Mesa,Sunscorch Canyon,2,364,3.9
+Red Mesa,Sunscorch Canyon,3,153,2.9
+Red Mesa,Sunscorch Canyon,4,75,2.0
+Red Mesa,Sunscorch Canyon,5,24,1.7
+Red Mesa,Sunscorch Canyon,6,12,1.7
+Red Mesa,Sunscorch Canyon,7,9,1.5
+Red Mesa,Sunscorch Canyon,8,3,1.0
+Red Mesa,Sunscorch Canyon,9,1,1.0
+Red Mesa,Sunscorch Canyon,10,4,1.3
+Red Mesa,Sunscorch Canyon,11,7,1.0
+Red Mesa,Sunscorch Canyon,12,1,1.0
+Red Mesa,Sunscorch Canyon,13,45,1.2
+Red Mesa,Sunscorch Canyon,14,104,1.2
+Red Mesa,Sunscorch Canyon,15,111,1.6
+Red Mesa,Sunscorch Canyon,16,153,2.4
+Red Mesa,Sunscorch Canyon,17,293,3.3
+Red Mesa,Sunscorch Canyon,18,625,5.9
+Red Mesa,Sunscorch Canyon,19,1154,8.1
+Red Mesa,Sunscorch Canyon,20,1356,9.9
+Red Mesa,Sunscorch Canyon,21,1324,11.7
+Red Mesa,Sunscorch Canyon,22,1493,10.7
+Red Mesa,Sunscorch Canyon,23,990,7.7
+Red Mesa,Windcaller Camp,0,842,5.7
+Red Mesa,Windcaller Camp,1,483,4.6
+Red Mesa,Windcaller Camp,2,313,3.2
+Red Mesa,Windcaller Camp,3,272,2.8
+Red Mesa,Windcaller Camp,4,132,2.7
+Red Mesa,Windcaller Camp,5,33,1.7
+Red Mesa,Windcaller Camp,6,15,1.2
+Red Mesa,Windcaller Camp,7,4,1.0
+Red Mesa,Windcaller Camp,8,1,1.0
+Red Mesa,Windcaller Camp,9,2,1.0
+Red Mesa,Windcaller Camp,10,4,1.0
+Red Mesa,Windcaller Camp,11,9,1.0
+Red Mesa,Windcaller Camp,12,14,1.5
+Red Mesa,Windcaller Camp,13,11,1.0
+Red Mesa,Windcaller Camp,14,79,1.2
+Red Mesa,Windcaller Camp,15,99,1.8
+Red Mesa,Windcaller Camp,16,190,2.2
+Red Mesa,Windcaller Camp,17,387,3.1
+Red Mesa,Windcaller Camp,18,678,5.8
+Red Mesa,Windcaller Camp,19,905,7.3
+Red Mesa,Windcaller Camp,20,1409,11.1
+Red Mesa,Windcaller Camp,21,1682,12.4
+Red Mesa,Windcaller Camp,22,1460,10.5
+Red Mesa,Windcaller Camp,23,1048,7.7
+Scorched Steppes,Blackglass Mesa,0,4557,19.6
+Scorched Steppes,Blackglass Mesa,1,3191,14.8
+Scorched Steppes,Blackglass Mesa,2,2394,9.8
+Scorched Steppes,Blackglass Mesa,3,1188,5.5
+Scorched Steppes,Blackglass Mesa,4,758,4.0
+Scorched Steppes,Blackglass Mesa,5,522,2.9
+Scorched Steppes,Blackglass Mesa,6,260,2.5
+Scorched Steppes,Blackglass Mesa,7,98,1.6
+Scorched Steppes,Blackglass Mesa,8,33,1.5
+Scorched Steppes,Blackglass Mesa,9,71,1.8
+Scorched Steppes,Blackglass Mesa,10,36,1.7
+Scorched Steppes,Blackglass Mesa,11,14,1.0
+Scorched Steppes,Blackglass Mesa,12,49,1.0
+Scorched Steppes,Blackglass Mesa,13,95,1.0
+Scorched Steppes,Blackglass Mesa,14,125,1.1
+Scorched Steppes,Blackglass Mesa,15,346,2.3
+Scorched Steppes,Blackglass Mesa,16,555,3.1
+Scorched Steppes,Blackglass Mesa,17,1041,5.1
+Scorched Steppes,Blackglass Mesa,18,2284,9.8
+Scorched Steppes,Blackglass Mesa,19,3747,16.4
+Scorched Steppes,Blackglass Mesa,20,5167,22.8
+Scorched Steppes,Blackglass Mesa,21,6970,30.2
+Scorched Steppes,Blackglass Mesa,22,6290,27.9
+Scorched Steppes,Blackglass Mesa,23,5401,24.3
+Scorched Steppes,Cinder Plains,0,4820,21.2
+Scorched Steppes,Cinder Plains,1,3339,14.0
+Scorched Steppes,Cinder Plains,2,2224,9.1
+Scorched Steppes,Cinder Plains,3,1375,6.0
+Scorched Steppes,Cinder Plains,4,762,4.1
+Scorched Steppes,Cinder Plains,5,337,3.1
+Scorched Steppes,Cinder Plains,6,309,2.0
+Scorched Steppes,Cinder Plains,7,123,1.5
+Scorched Steppes,Cinder Plains,8,65,1.2
+Scorched Steppes,Cinder Plains,9,18,1.3
+Scorched Steppes,Cinder Plains,10,38,1.0
+Scorched Steppes,Cinder Plains,11,4,1.0
+Scorched Steppes,Cinder Plains,12,35,1.0
+Scorched Steppes,Cinder Plains,13,71,1.0
+Scorched Steppes,Cinder Plains,14,153,1.3
+Scorched Steppes,Cinder Plains,15,333,2.1
+Scorched Steppes,Cinder Plains,16,607,3.1
+Scorched Steppes,Cinder Plains,17,998,4.5
+Scorched Steppes,Cinder Plains,18,2270,10.0
+Scorched Steppes,Cinder Plains,19,3585,15.8
+Scorched Steppes,Cinder Plains,20,5414,23.1
+Scorched Steppes,Cinder Plains,21,6204,28.3
+Scorched Steppes,Cinder Plains,22,6312,29.1
+Scorched Steppes,Cinder Plains,23,6205,25.5
+Scorched Steppes,Emberdock,0,6571,40.9
+Scorched Steppes,Emberdock,1,4869,29.8
+Scorched Steppes,Emberdock,2,3370,21.8
+Scorched Steppes,Emberdock,3,1936,15.2
+Scorched Steppes,Emberdock,4,1024,11.0
+Scorched Steppes,Emberdock,5,680,7.7
+Scorched Steppes,Emberdock,6,325,6.9
+Scorched Steppes,Emberdock,7,173,3.9
+Scorched Steppes,Emberdock,8,71,2.3
+Scorched Steppes,Emberdock,9,47,1.7
+Scorched Steppes,Emberdock,10,32,1.6
+Scorched Steppes,Emberdock,11,44,1.2
+Scorched Steppes,Emberdock,12,19,1.1
+Scorched Steppes,Emberdock,13,105,1.3
+Scorched Steppes,Emberdock,14,264,2.1
+Scorched Steppes,Emberdock,15,668,4.4
+Scorched Steppes,Emberdock,16,1216,7.6
+Scorched Steppes,Emberdock,17,2033,16.3
+Scorched Steppes,Emberdock,18,4411,32.0
+Scorched Steppes,Emberdock,19,6665,46.2
+Scorched Steppes,Emberdock,20,9163,60.2
+Scorched Steppes,Emberdock,21,10547,64.2
+Scorched Steppes,Emberdock,22,9891,59.8
+Scorched Steppes,Emberdock,23,8331,48.8
+Scorched Steppes,Ironbrand Outpost,0,4526,20.2
+Scorched Steppes,Ironbrand Outpost,1,3396,14.6
+Scorched Steppes,Ironbrand Outpost,2,2063,9.3
+Scorched Steppes,Ironbrand Outpost,3,1188,5.9
+Scorched Steppes,Ironbrand Outpost,4,690,4.0
+Scorched Steppes,Ironbrand Outpost,5,413,2.8
+Scorched Steppes,Ironbrand Outpost,6,224,2.4
+Scorched Steppes,Ironbrand Outpost,7,116,2.3
+Scorched Steppes,Ironbrand Outpost,8,113,1.5
+Scorched Steppes,Ironbrand Outpost,9,20,1.7
+Scorched Steppes,Ironbrand Outpost,10,27,1.0
+Scorched Steppes,Ironbrand Outpost,11,13,2.0
+Scorched Steppes,Ironbrand Outpost,12,25,1.0
+Scorched Steppes,Ironbrand Outpost,13,49,1.0
+Scorched Steppes,Ironbrand Outpost,14,143,1.3
+Scorched Steppes,Ironbrand Outpost,15,365,1.9
+Scorched Steppes,Ironbrand Outpost,16,672,3.5
+Scorched Steppes,Ironbrand Outpost,17,1162,4.9
+Scorched Steppes,Ironbrand Outpost,18,2143,10.5
+Scorched Steppes,Ironbrand Outpost,19,3530,17.1
+Scorched Steppes,Ironbrand Outpost,20,5362,23.6
+Scorched Steppes,Ironbrand Outpost,21,6972,29.5
+Scorched Steppes,Ironbrand Outpost,22,7046,30.0
+Scorched Steppes,Ironbrand Outpost,23,5865,25.1
+Scorched Steppes,Molten Scar,0,4736,20.7
+Scorched Steppes,Molten Scar,1,3105,14.1
+Scorched Steppes,Molten Scar,2,1959,9.4
+Scorched Steppes,Molten Scar,3,1095,5.5
+Scorched Steppes,Molten Scar,4,704,3.8
+Scorched Steppes,Molten Scar,5,343,3.1
+Scorched Steppes,Molten Scar,6,239,2.4
+Scorched Steppes,Molten Scar,7,122,1.9
+Scorched Steppes,Molten Scar,8,28,1.0
+Scorched Steppes,Molten Scar,9,30,1.0
+Scorched Steppes,Molten Scar,10,35,1.3
+Scorched Steppes,Molten Scar,11,12,1.0
+Scorched Steppes,Molten Scar,12,56,1.0
+Scorched Steppes,Molten Scar,13,76,1.0
+Scorched Steppes,Molten Scar,14,60,1.4
+Scorched Steppes,Molten Scar,15,328,1.9
+Scorched Steppes,Molten Scar,16,653,3.0
+Scorched Steppes,Molten Scar,17,1141,5.1
+Scorched Steppes,Molten Scar,18,2407,9.7
+Scorched Steppes,Molten Scar,19,3960,16.4
+Scorched Steppes,Molten Scar,20,5168,23.6
+Scorched Steppes,Molten Scar,21,6520,29.3
+Scorched Steppes,Molten Scar,22,6503,27.5
+Scorched Steppes,Molten Scar,23,5919,25.3
+Scorched Steppes,Northern Pass,0,4477,20.5
+Scorched Steppes,Northern Pass,1,3602,15.5
+Scorched Steppes,Northern Pass,2,2134,9.7
+Scorched Steppes,Northern Pass,3,1057,5.6
+Scorched Steppes,Northern Pass,4,597,3.9
+Scorched Steppes,Northern Pass,5,326,2.8
+Scorched Steppes,Northern Pass,6,256,3.0
+Scorched Steppes,Northern Pass,7,175,2.2
+Scorched Steppes,Northern Pass,8,88,1.3
+Scorched Steppes,Northern Pass,9,50,1.3
+Scorched Steppes,Northern Pass,10,32,1.0
+Scorched Steppes,Northern Pass,11,14,1.0
+Scorched Steppes,Northern Pass,12,7,1.0
+Scorched Steppes,Northern Pass,13,59,1.0
+Scorched Steppes,Northern Pass,14,165,1.3
+Scorched Steppes,Northern Pass,15,368,2.1
+Scorched Steppes,Northern Pass,16,697,3.4
+Scorched Steppes,Northern Pass,17,1065,4.8
+Scorched Steppes,Northern Pass,18,2278,10.4
+Scorched Steppes,Northern Pass,19,3885,16.6
+Scorched Steppes,Northern Pass,20,5167,23.5
+Scorched Steppes,Northern Pass,21,6109,28.3
+Scorched Steppes,Northern Pass,22,6517,28.4
+Scorched Steppes,Northern Pass,23,5748,25.2
+Silverspire,Auction Hall,0,742,13.0
+Silverspire,Auction Hall,1,740,12.6
+Silverspire,Auction Hall,2,508,8.6
+Silverspire,Auction Hall,3,339,5.9
+Silverspire,Auction Hall,4,225,3.8
+Silverspire,Auction Hall,5,140,3.0
+Silverspire,Auction Hall,6,104,2.1
+Silverspire,Auction Hall,7,68,1.6
+Silverspire,Auction Hall,8,41,1.3
+Silverspire,Auction Hall,9,31,1.1
+Silverspire,Auction Hall,10,20,1.0
+Silverspire,Auction Hall,11,8,1.3
+Silverspire,Auction Hall,12,5,1.0
+Silverspire,Auction Hall,13,5,1.0
+Silverspire,Auction Hall,14,36,1.3
+Silverspire,Auction Hall,15,49,2.4
+Silverspire,Auction Hall,16,142,2.4
+Silverspire,Auction Hall,17,282,5.1
+Silverspire,Auction Hall,18,491,8.7
+Silverspire,Auction Hall,19,679,12.3
+Silverspire,Auction Hall,20,898,15.7
+Silverspire,Auction Hall,21,991,17.0
+Silverspire,Auction Hall,22,959,16.8
+Silverspire,Auction Hall,23,874,14.8
+Silverspire,Cathedral Steps,0,824,14.1
+Silverspire,Cathedral Steps,1,696,11.7
+Silverspire,Cathedral Steps,2,484,8.3
+Silverspire,Cathedral Steps,3,339,5.7
+Silverspire,Cathedral Steps,4,255,4.4
+Silverspire,Cathedral Steps,5,121,2.6
+Silverspire,Cathedral Steps,6,115,2.4
+Silverspire,Cathedral Steps,7,48,1.5
+Silverspire,Cathedral Steps,8,51,1.5
+Silverspire,Cathedral Steps,9,30,1.3
+Silverspire,Cathedral Steps,10,26,1.3
+Silverspire,Cathedral Steps,11,8,1.3
+Silverspire,Cathedral Steps,12,12,1.0
+Silverspire,Cathedral Steps,13,8,1.0
+Silverspire,Cathedral Steps,14,28,1.1
+Silverspire,Cathedral Steps,15,76,1.8
+Silverspire,Cathedral Steps,16,124,2.5
+Silverspire,Cathedral Steps,17,273,5.0
+Silverspire,Cathedral Steps,18,526,9.7
+Silverspire,Cathedral Steps,19,666,12.2
+Silverspire,Cathedral Steps,20,1035,17.8
+Silverspire,Cathedral Steps,21,1011,17.3
+Silverspire,Cathedral Steps,22,948,16.3
+Silverspire,Cathedral Steps,23,931,15.8
+Silverspire,Harbor,0,928,19.5
+Silverspire,Harbor,1,776,16.0
+Silverspire,Harbor,2,581,12.2
+Silverspire,Harbor,3,437,9.4
+Silverspire,Harbor,4,302,6.4
+Silverspire,Harbor,5,169,3.8
+Silverspire,Harbor,6,152,3.1
+Silverspire,Harbor,7,60,2.0
+Silverspire,Harbor,8,53,1.7
+Silverspire,Harbor,9,37,1.4
+Silverspire,Harbor,10,19,1.1
+Silverspire,Harbor,11,9,1.3
+Silverspire,Harbor,12,11,1.0
+Silverspire,Harbor,13,11,1.4
+Silverspire,Harbor,14,33,1.7
+Silverspire,Harbor,15,87,2.6
+Silverspire,Harbor,16,170,3.8
+Silverspire,Harbor,17,403,9.6
+Silverspire,Harbor,18,762,17.0
+Silverspire,Harbor,19,868,20.6
+Silverspire,Harbor,20,1269,29.7
+Silverspire,Harbor,21,1335,28.9
+Silverspire,Harbor,22,1243,27.4
+Silverspire,Harbor,23,1126,23.8
+Silverspire,Market Square,0,809,13.6
+Silverspire,Market Square,1,657,10.8
+Silverspire,Market Square,2,498,8.6
+Silverspire,Market Square,3,334,5.9
+Silverspire,Market Square,4,234,3.9
+Silverspire,Market Square,5,126,2.7
+Silverspire,Market Square,6,113,2.3
+Silverspire,Market Square,7,50,1.5
+Silverspire,Market Square,8,45,1.4
+Silverspire,Market Square,9,24,1.4
+Silverspire,Market Square,10,17,1.2
+Silverspire,Market Square,11,10,1.0
+Silverspire,Market Square,12,8,1.0
+Silverspire,Market Square,13,11,1.0
+Silverspire,Market Square,14,31,1.5
+Silverspire,Market Square,15,81,1.7
+Silverspire,Market Square,16,128,2.6
+Silverspire,Market Square,17,246,4.3
+Silverspire,Market Square,18,519,8.9
+Silverspire,Market Square,19,723,12.9
+Silverspire,Market Square,20,930,16.3
+Silverspire,Market Square,21,1047,18.2
+Silverspire,Market Square,22,969,16.4
+Silverspire,Market Square,23,842,14.5
+Sunken Crypt,Drowned Altar,0,9,3.0
+Sunken Crypt,Drowned Altar,1,10,3.0
+Sunken Crypt,Drowned Altar,19,13,3.0
+Sunken Crypt,Drowned Altar,20,65,3.3
+Sunken Crypt,Drowned Altar,21,40,3.0
+Sunken Crypt,Drowned Altar,22,66,3.0
+Sunken Crypt,Flooded Nave,0,47,3.0
+Sunken Crypt,Flooded Nave,1,6,2.0
+Sunken Crypt,Flooded Nave,3,17,3.0
+Sunken Crypt,Flooded Nave,18,15,3.0
+Sunken Crypt,Flooded Nave,19,70,4.3
+Sunken Crypt,Flooded Nave,20,25,5.0
+Sunken Crypt,Flooded Nave,21,58,5.0
+Sunken Crypt,Flooded Nave,22,112,3.8
+Sunken Crypt,Flooded Nave,23,74,4.0
+Sunken Crypt,Ossuary Depths,0,14,3.0
+Sunken Crypt,Ossuary Depths,1,39,3.5
+Sunken Crypt,Ossuary Depths,19,51,3.0
+Sunken Crypt,Ossuary Depths,20,126,4.6
+Sunken Crypt,Ossuary Depths,22,136,4.3
+Sunken Crypt,Ossuary Depths,23,75,4.8
+Thornhold,Auction Hall,0,836,14.5
+Thornhold,Auction Hall,1,755,13.0
+Thornhold,Auction Hall,2,547,9.6
+Thornhold,Auction Hall,3,355,6.3
+Thornhold,Auction Hall,4,277,4.7
+Thornhold,Auction Hall,5,158,2.8
+Thornhold,Auction Hall,6,115,2.3
+Thornhold,Auction Hall,7,84,1.7
+Thornhold,Auction Hall,8,33,1.3
+Thornhold,Auction Hall,9,39,1.4
+Thornhold,Auction Hall,10,21,1.6
+Thornhold,Auction Hall,11,14,1.2
+Thornhold,Auction Hall,12,8,1.0
+Thornhold,Auction Hall,13,12,1.0
+Thornhold,Auction Hall,14,22,1.2
+Thornhold,Auction Hall,15,66,1.8
+Thornhold,Auction Hall,16,179,3.2
+Thornhold,Auction Hall,17,310,5.5
+Thornhold,Auction Hall,18,607,11.2
+Thornhold,Auction Hall,19,912,16.5
+Thornhold,Auction Hall,20,1034,18.9
+Thornhold,Auction Hall,21,1170,20.7
+Thornhold,Auction Hall,22,1223,20.5
+Thornhold,Auction Hall,23,976,16.3
+Thornhold,Gate of Thorns,0,911,15.6
+Thornhold,Gate of Thorns,1,760,12.5
+Thornhold,Gate of Thorns,2,554,9.4
+Thornhold,Gate of Thorns,3,391,6.8
+Thornhold,Gate of Thorns,4,284,4.8
+Thornhold,Gate of Thorns,5,183,3.4
+Thornhold,Gate of Thorns,6,95,2.1
+Thornhold,Gate of Thorns,7,94,1.9
+Thornhold,Gate of Thorns,8,25,1.4
+Thornhold,Gate of Thorns,9,31,1.4
+Thornhold,Gate of Thorns,10,19,1.3
+Thornhold,Gate of Thorns,11,25,1.1
+Thornhold,Gate of Thorns,12,11,1.0
+Thornhold,Gate of Thorns,13,20,1.1
+Thornhold,Gate of Thorns,14,34,1.3
+Thornhold,Gate of Thorns,15,86,2.0
+Thornhold,Gate of Thorns,16,178,3.3
+Thornhold,Gate of Thorns,17,323,6.4
+Thornhold,Gate of Thorns,18,614,11.1
+Thornhold,Gate of Thorns,19,902,16.3
+Thornhold,Gate of Thorns,20,1076,19.6
+Thornhold,Gate of Thorns,21,1228,21.8
+Thornhold,Gate of Thorns,22,1099,19.1
+Thornhold,Gate of Thorns,23,1098,18.3
+Thornhold,War Den,0,811,14.3
+Thornhold,War Den,1,762,13.0
+Thornhold,War Den,2,549,9.2
+Thornhold,War Den,3,401,6.9
+Thornhold,War Den,4,267,4.7
+Thornhold,War Den,5,191,3.5
+Thornhold,War Den,6,134,2.6
+Thornhold,War Den,7,92,1.8
+Thornhold,War Den,8,41,1.6
+Thornhold,War Den,9,24,1.1
+Thornhold,War Den,10,19,1.4
+Thornhold,War Den,11,21,1.4
+Thornhold,War Den,12,9,1.0
+Thornhold,War Den,13,14,1.0
+Thornhold,War Den,14,29,1.1
+Thornhold,War Den,15,95,2.0
+Thornhold,War Den,16,135,2.7
+Thornhold,War Den,17,311,5.6
+Thornhold,War Den,18,601,10.8
+Thornhold,War Den,19,836,15.1
+Thornhold,War Den,20,1115,20.6
+Thornhold,War Den,21,1182,21.3
+Thornhold,War Den,22,1188,20.5
+Thornhold,War Den,23,1095,18.5
+Thornhold,Zeppelin Tower,0,1102,23.4
+Thornhold,Zeppelin Tower,1,894,18.4
+Thornhold,Zeppelin Tower,2,680,13.8
+Thornhold,Zeppelin Tower,3,492,10.5
+Thornhold,Zeppelin Tower,4,322,6.5
+Thornhold,Zeppelin Tower,5,234,4.7
+Thornhold,Zeppelin Tower,6,150,3.0
+Thornhold,Zeppelin Tower,7,102,2.5
+Thornhold,Zeppelin Tower,8,45,1.8
+Thornhold,Zeppelin Tower,9,37,1.7
+Thornhold,Zeppelin Tower,10,22,1.2
+Thornhold,Zeppelin Tower,11,16,1.0
+Thornhold,Zeppelin Tower,12,12,1.1
+Thornhold,Zeppelin Tower,13,22,1.3
+Thornhold,Zeppelin Tower,14,31,1.5
+Thornhold,Zeppelin Tower,15,111,2.7
+Thornhold,Zeppelin Tower,16,215,5.2
+Thornhold,Zeppelin Tower,17,442,10.6
+Thornhold,Zeppelin Tower,18,819,19.7
+Thornhold,Zeppelin Tower,19,1191,28.1
+Thornhold,Zeppelin Tower,20,1432,34.2
+Thornhold,Zeppelin Tower,21,1609,37.0
+Thornhold,Zeppelin Tower,22,1553,33.0
+Thornhold,Zeppelin Tower,23,1295,26.7
+Voidforge Sanctum,Forge Gate,0,918,6.7
+Voidforge Sanctum,Forge Gate,1,443,4.8
+Voidforge Sanctum,Forge Gate,2,298,3.9
+Voidforge Sanctum,Forge Gate,3,259,4.2
+Voidforge Sanctum,Forge Gate,4,66,4.7
+Voidforge Sanctum,Forge Gate,5,52,3.0
+Voidforge Sanctum,Forge Gate,6,5,2.0
+Voidforge Sanctum,Forge Gate,16,1,1.0
+Voidforge Sanctum,Forge Gate,17,1,1.0
+Voidforge Sanctum,Forge Gate,18,184,4.5
+Voidforge Sanctum,Forge Gate,19,405,3.8
+Voidforge Sanctum,Forge Gate,20,961,6.7
+Voidforge Sanctum,Forge Gate,21,1152,7.8
+Voidforge Sanctum,Forge Gate,22,1539,8.6
+Voidforge Sanctum,Forge Gate,23,1361,8.2
+Voidforge Sanctum,Hall of Chains,0,899,7.2
+Voidforge Sanctum,Hall of Chains,1,859,6.7
+Voidforge Sanctum,Hall of Chains,2,240,3.6
+Voidforge Sanctum,Hall of Chains,3,134,3.5
+Voidforge Sanctum,Hall of Chains,4,30,2.7
+Voidforge Sanctum,Hall of Chains,17,58,3.0
+Voidforge Sanctum,Hall of Chains,18,144,3.2
+Voidforge Sanctum,Hall of Chains,19,611,5.1
+Voidforge Sanctum,Hall of Chains,20,846,7.1
+Voidforge Sanctum,Hall of Chains,21,1110,6.7
+Voidforge Sanctum,Hall of Chains,22,1049,6.4
+Voidforge Sanctum,Hall of Chains,23,1172,7.1
+Voidforge Sanctum,Throne of the Unmade,0,1033,7.1
+Voidforge Sanctum,Throne of the Unmade,1,714,5.0
+Voidforge Sanctum,Throne of the Unmade,2,449,3.6
+Voidforge Sanctum,Throne of the Unmade,3,103,3.3
+Voidforge Sanctum,Throne of the Unmade,4,122,3.8
+Voidforge Sanctum,Throne of the Unmade,5,12,3.0
+Voidforge Sanctum,Throne of the Unmade,16,1,1.0
+Voidforge Sanctum,Throne of the Unmade,17,41,4.0
+Voidforge Sanctum,Throne of the Unmade,18,253,4.3
+Voidforge Sanctum,Throne of the Unmade,19,533,5.5
+Voidforge Sanctum,Throne of the Unmade,20,558,4.7
+Voidforge Sanctum,Throne of the Unmade,21,979,7.3
+Voidforge Sanctum,Throne of the Unmade,22,1631,8.7
+Voidforge Sanctum,Throne of the Unmade,23,1248,7.8

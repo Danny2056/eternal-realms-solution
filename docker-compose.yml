@@ -1,0 +1,8 @@
+# Source snapshot: read-only Postgres 16 with the Eternal Realms data baked in.
+services:
+  eternal-realms-source:
+    image: ghcr.io/hexnevarez/eternal-realms:latest
+    container_name: eternal-realms
+    ports:
+      - "${PGPORT:-5432}:5432"
+    restart: unless-stopped

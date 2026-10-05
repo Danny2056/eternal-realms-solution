@@ -1,0 +1,6 @@
+character_id,account_id,character_name,class_name,violations,rules_broken,first_violation_at,last_violation_at
+chr_1786,acc_1017,Char1786,Warlock,101,"[Burst damage, Equip stacking, Gear above level, Item duplication, Speed hack]",2026-08-15 19:03:52.331+00,2026-08-26 21:46:54.046+00
+chr_1785,acc_1016,Char1785,Rogue,77,"[Burst damage, Equip stacking]",2026-08-25 21:42:07.073+00,2026-08-26 21:48:41.425+00
+chr_1782,acc_1013,Char1782,Warrior,48,"[Burst damage, Equip stacking]",2026-08-25 21:40:54.5+00,2026-08-26 21:12:20.883+00
+chr_1783,acc_1014,Char1783,Paladin,48,"[Burst damage, Equip stacking]",2026-08-25 21:41:12.718+00,2026-08-26 21:12:21.485+00
+chr_1784,acc_1015,Char1784,Mage,48,"[Burst damage, Equip stacking]",2026-08-25 21:41:44.524+00,2026-08-26 21:12:21.022+00

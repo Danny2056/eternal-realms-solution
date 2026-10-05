@@ -1,0 +1,12 @@
+flow_type,line,gold
+total,gold_in,287644086
+total,net,287265620
+total,gold_out,-378466
+source,creature_drop,110590907
+source,merchant_sale_common,81440417
+source,merchant_sale_uncommon,56957238
+source,merchant_sale_rare,29166906
+source,merchant_sale_epic,5423140
+source,merchant_sale_unknown,3994832
+source,merchant_sale_legendary,70646
+sink,auction_house_cut,-378466
