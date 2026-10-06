@@ -1,4 +1,4 @@
-# Eternal Realms: Data Platform and Cheat Investigation
+﻿# Eternal Realms: Data Platform and Cheat Investigation
 
 Senior Data Engineer challenge for Duskmire Studios. This repository ingests the Eternal Realms early-access
 snapshot (9.65 million game events), cleans it, models it as a star schema for reporting, and runs a rule-based
@@ -88,6 +88,7 @@ data/                         Generated (git-ignored): raw Parquet and the DuckD
 | Worst offender timeline (nice to have) | [docs/investigation-log.md](docs/investigation-log.md#worst-case-timeline-of-chr_1786) |
 | AWS architecture (nice to have) | [docs/aws-architecture.md](docs/aws-architecture.md) |
 | AI usage | [docs/adr/0007-ai-assistance.md](docs/adr/0007-ai-assistance.md) |
+| Presentation for the live session | [Eternal Realms CheatInvestigation Daniel pres.pptx](Eternal%20Realms%20CheatInvestigation%20Daniel%20pres.pptx): findings, cheat timeline, patch recommendations and Power BI visuals |
 
 ## Stack
 
